@@ -14,7 +14,6 @@ This project implements a Hybrid Recommender System using a combination of item-
 - **Python:** Primary programming language.
 - **Pandas:** Data manipulation and analysis.
 - **Matplotlib and Seaborn:** Data visualization.
-- **Jupyter Notebook:** Interactive development and analysis environment.
 
 ## Acknowledgments
 
